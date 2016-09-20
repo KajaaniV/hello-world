@@ -5,6 +5,7 @@
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 Hello!\
-\
-This is me. Do you remember all the time you used say bs?\
+It\'92s me.\
+I was wondering if after all these years you\'92d like to meet.\
+To go over everything.\
 }
